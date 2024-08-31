@@ -1,0 +1,1 @@
+/usr/bin/cc.exe CMakeFiles/llist.dir/src/llist.c.o CMakeFiles/llist.dir/src/test.c.o -o bin/llist.exe  libllist_lib.a 

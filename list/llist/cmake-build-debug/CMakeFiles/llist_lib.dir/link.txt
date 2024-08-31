@@ -1,0 +1,2 @@
+D:\Program_Files\Mingw-w64\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe qc libllist_lib.a CMakeFiles/llist_lib.dir/src/llist.c.obj
+D:\Program_Files\Mingw-w64\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\ranlib.exe libllist_lib.a

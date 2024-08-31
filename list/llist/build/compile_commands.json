@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/e/projects/ds/list/llist/build",
+  "command": "/usr/bin/cc.exe    -o CMakeFiles/llist_lib.dir/src/llist.c.o -c /e/projects/ds/list/llist/src/llist.c",
+  "file": "/e/projects/ds/list/llist/src/llist.c",
+  "output": "CMakeFiles/llist_lib.dir/src/llist.c.o"
+},
+{
+  "directory": "/e/projects/ds/list/llist/build",
+  "command": "/usr/bin/cc.exe  -I/e/projects/ds/list/llist/include  -o CMakeFiles/llist.dir/src/llist.c.o -c /e/projects/ds/list/llist/src/llist.c",
+  "file": "/e/projects/ds/list/llist/src/llist.c",
+  "output": "CMakeFiles/llist.dir/src/llist.c.o"
+},
+{
+  "directory": "/e/projects/ds/list/llist/build",
+  "command": "/usr/bin/cc.exe  -I/e/projects/ds/list/llist/include  -o CMakeFiles/llist.dir/src/test.c.o -c /e/projects/ds/list/llist/src/test.c",
+  "file": "/e/projects/ds/list/llist/src/test.c",
+  "output": "CMakeFiles/llist.dir/src/test.c.o"
+}
+]

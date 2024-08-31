@@ -1,0 +1,4 @@
+/e/projects/ds/list/llist/build/CMakeFiles/llist.dir
+/e/projects/ds/list/llist/build/CMakeFiles/llist_lib.dir
+/e/projects/ds/list/llist/build/CMakeFiles/edit_cache.dir
+/e/projects/ds/list/llist/build/CMakeFiles/rebuild_cache.dir

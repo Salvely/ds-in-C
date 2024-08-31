@@ -1,12 +1,13 @@
-cmake_minimum_required(VERSION 3.26)
+cmake_minimum_required(VERSION 3.20)
 project(llist)
 
 FILE(GLOB SOURCES src/*.c)
 add_executable(${PROJECT_NAME} ${SOURCES})
 
-INCLUDE(CMakeForceCompiler)
-CMAKE_FORCE_C_COMPILER(gcc GNU)
-CMAKE_FORCE_CXX_COMPILER(g++ GNU)
+# INCLUDE(CMakeForceCompiler)
+# CMAKE_FORCE_C_COMPILER(gcc GNU)
+# CMAKE_FORCE_CXX_COMPILER(g++ GNU)
+# set(CMAKE_C_COMPILER gcc)
 
 set(EXECUTABLE_OUTPUT_PATH bin)
 set(LIBRARY_OUTPUT_DIRECTORY lib)

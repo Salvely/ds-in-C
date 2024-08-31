@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libllist_lib.a CMakeFiles/llist_lib.dir/src/llist.c.o
+/usr/bin/ranlib.exe libllist_lib.a
